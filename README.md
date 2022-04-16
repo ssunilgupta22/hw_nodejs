@@ -15,7 +15,8 @@ heroku create your_unique_name
 
 example
 
-git clone https://github.com/ssunilgupta22/hw_nodejs.git
+git clone https://github.com/ssunilgupta22/myhwjs
+
 cd ssunilgupta22
 
 change
